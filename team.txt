@@ -3,8 +3,8 @@ group members;
 name; Sebastian Janeczek 
 id; 300361784
 
-name; 
-id; 
+name; Jeffrey Liu
+id; 300288025
 
 name; 
 id; 
